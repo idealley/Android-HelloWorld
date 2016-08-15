@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">What is your name</string>
+    <string name="email">What is your email address</string>
 </resources>
